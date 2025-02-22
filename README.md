@@ -34,7 +34,7 @@ Date: Timestamp of the attempt.
 
 IndexedDB ensures that even if the page is refreshed, users can still access their previous attempts.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 https://quiz-app-gamma-liart.vercel.app/
 
