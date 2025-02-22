@@ -34,6 +34,10 @@ Date: Timestamp of the attempt.
 
 IndexedDB ensures that even if the page is refreshed, users can still access their previous attempts.
 
+🚀 Live Demo
+
+🔗 https://quiz-app-gamma-liart.vercel.app/
+
 ## Installation & Setup
 
 Follow these steps to run the app locally:
